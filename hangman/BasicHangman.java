@@ -12,7 +12,7 @@ public class BasicHangman {
             "python", "hangman", "computer", "keyboard", "internet", "monitor", "software",
             "database", "variable", "function", "algorithm", "programming", "development",
             "infrastructure", "optimization", "architecture", "cybersecurity",
-            "microprocessor", "implementation", "virtualization"
+            "microprocessor", "implementation", "virtualization",  "oral", "vedam"
         };
 
         // ASCII art stages of hangman for each wrong guess count
